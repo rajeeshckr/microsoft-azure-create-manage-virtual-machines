@@ -1,0 +1,11 @@
+Azure Virtual Machine Architecture
+http://bit.ly/2thbmq8
+
+Azure Supported Workloads
+https://support.microsoft.com/en-us/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines
+
+Azure Virtual Machine Sizes
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes
+
+Azure Pricing Calculator
+https://azure.microsoft.com/en-us/pricing/calculator/

@@ -1,0 +1,5 @@
+https://github.com/Azure/azure-devtestlab
+
+https://github.com/mikepfeiffer/azure-devtestlabsdemo
+
+https://docs.microsoft.com/en-us/azure/devtest-lab/devtest-lab-create-environment-from-arm

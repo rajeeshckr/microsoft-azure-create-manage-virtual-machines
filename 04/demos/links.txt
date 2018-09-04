@@ -1,0 +1,13 @@
+Azure CLI Links
+https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli
+http://jmespath.org/
+
+PowerShell Links
+https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azurermps-4.1.0
+http://powershellgallery.org
+
+ARM Template for IIS+Web Deploy 
+https://github.com/mikepfeiffer/iis-webdeploy
+
+Azure SDKs
+https://azure.microsoft.com/en-us/downloads/
